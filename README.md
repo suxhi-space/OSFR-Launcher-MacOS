@@ -1,7 +1,7 @@
 ### Getting Started
 
 #### Installation
-1.  Navigate to the **[Releases page](https://github.com/Jakeh9777/OSFR-Launcher-MacOS/releases)**.
+1.  Navigate to the **[Releases page](https://github.com/suxhi-space/OSFR-Launcher-MacOS/releases)**.
 2.  Download the latest `OSFRLauncher_***.dmg`.
     > **Note:** We recommend you Select Arm for M series Macs and x86 of for Intel Macs.
 3.  Open and drag into application folder.
