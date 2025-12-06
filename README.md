@@ -1,0 +1,1 @@
+# OSFR-Launcher-MacOS
