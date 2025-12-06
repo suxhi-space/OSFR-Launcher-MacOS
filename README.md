@@ -6,8 +6,6 @@
     > **Note:** We recommend you Select Arm for M series Macs and x86 of for Intel Macs.
 3.  Open and drag into application folder.
 
-Sul's Server has been added already by default for easy use.
-
 #### How to Play
 1.  Launch the application.
 2.  Enter a server URL from a **Known** host.
