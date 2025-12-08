@@ -9,7 +9,7 @@
 #### How to Play
 1.  Launch the application.
 2.  Enter a server URL from a **Known** host.
-    > **Note:** Sul's Server and files have been added in by default for easy use.
+    > **Note:** Sul's Server and files have been added in by default for easy use. IF you want a version without Sul's files preloaded please let me know in the discord.
 3.  Click **"Play"**.
 4.  Log in with your account details and enjoy the game!
 
