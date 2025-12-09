@@ -16,7 +16,7 @@
 
 ### Build with Porting Kit from Source
 
-**[Please check out the main github](here https://github.com/Open-Source-Free-Realms/Launcher)**.
+**[Please check out the main github here](https://github.com/Open-Source-Free-Realms/Launcher)**.
 
 ### How to Contribute
 
