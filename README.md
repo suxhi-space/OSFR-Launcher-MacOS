@@ -2,7 +2,7 @@
 **Note:** This app is a container. So login information and servers are saved within. SO PLEASE DO NOT SHARE your .app with anyone else.
 
 #### Installation
-1.  Navigate to the **[Releases page](https://github.com/suxhi-space/OSFR-Launcher-MacOS/releases/latest)**.
+1.  Navigate to the **[Latest Release](https://github.com/suxhi-space/OSFR-Launcher-MacOS/releases/latest)**.
 2.  Download the latest `OSFRLauncher_***.dmg`.
     > **Note:** For 1.0.0 We recommend you Select Arm for M series Macs and x86 of for Intel Macs.
 3.  Open and drag into application folder.
