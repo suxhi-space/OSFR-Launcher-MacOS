@@ -1,5 +1,5 @@
 ### Getting Started
-**Note:** This app is a container. Everything done will be store within the app. SO PLEASE DO NOT SHARE your app with anyone else.
+**Note:** This app is a container. So login information and servers are saved within. SO PLEASE DO NOT SHARE your .app with anyone else.
 
 #### Installation
 1.  Navigate to the **[Releases page](https://github.com/suxhi-space/OSFR-Launcher-MacOS/releases/latest)**.
