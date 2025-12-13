@@ -32,35 +32,7 @@
     },
     {
       "type": "setRenderer",
-      "conditions": {
-        "videoCards": [
-          "Apple Silicon"
-        ],
-        "processors": [
-          "Apple"
-        ]
-      },
-      "properties": "metal"
-    },
-    {
-      "type": "setRenderer",
-      "conditions": {
-        "videoCards": [
-          "Intel Iris",
-          "Intel Iris Pro",
-          "Intel Iris Plus",
-          "Intel HD",
-          "Intel UHD",
-          "Intel GMA",
-          "Intel Coffee Lake",
-          "NVIDIA",
-          "ATI/AMD"
-        ],
-        "processors": [
-          "Intel",
-          "AMD"
-        ]
-      },
+      "conditions": {},
       "properties": "vulkan"
     },
     {
@@ -80,10 +52,17 @@
     },
     {
       "type": "installWinetrick",
-      "conditions": {},
       "properties": {
-        "name": "dotnet9"
-      }
+        "name": "dotnet48"
+      },
+      "conditions": {}
+    },
+    {
+      "type": "installWinetrick",
+      "properties": {
+        "name": "dotnet35sp1"
+      },
+      "conditions": {}
     },
     {
       "type": "installWinetrick",
@@ -91,6 +70,48 @@
       "properties": {
         "name": "vcrun2005"
       }
+    },
+    {
+      "type": "installWinetrick",
+      "properties": {
+        "name": "d3dx9_31"
+      },
+      "conditions": {}
+    },
+    {
+      "type": "installWinetrick",
+      "properties": {
+        "name": "d3dx9_36"
+      },
+      "conditions": {}
+    },
+    {
+      "type": "installWinetrick",
+      "properties": {
+        "name": "d3dx9_43"
+      },
+      "conditions": {}
+    },
+    {
+      "type": "installWinetrick",
+      "properties": {
+        "name": "d3dcompiler_43"
+      },
+      "conditions": {}
+    },
+    {
+      "type": "installWinetrick",
+      "properties": {
+        "name": "d3dcompiler_47"
+      },
+      "conditions": {}
+    },
+    {
+      "type": "installWinetrick",
+      "properties": {
+        "name": "d9vk"
+      },
+      "conditions": {}
     },
     {
       "type": "installWinetrick",
@@ -115,43 +136,8 @@
     },
     {
       "type": "installWinetrick",
-      "conditions": {},
-      "properties": {
-        "name": "vcrun2022"
-      }
-    },
-    {
-      "type": "installWinetrick",
-      "properties": {
-        "name": "d3dx9"
-      },
-      "conditions": {}
-    },
-    {
-      "type": "installWinetrick",
-      "properties": {
-        "name": "d3dcompiler_43"
-      },
-      "conditions": {}
-    },
-    {
-      "type": "installWinetrick",
-      "properties": {
-        "name": "d3dcompiler_47"
-      },
-      "conditions": {}
-    },
-    {
-      "type": "installWinetrick",
       "properties": {
         "name": "corefonts"
-      },
-      "conditions": {}
-    },
-    {
-      "type": "installWinetrick",
-      "properties": {
-        "name": "dxvk1103_macOS"
       },
       "conditions": {}
     },
