@@ -5,8 +5,8 @@ This application was built using [Porting Kit](https://www.portingkit.com/)
 
 #### Installation
 1.  Navigate to the **[Latest Release](https://github.com/suxhi-space/OSFR-Launcher-MacOS/releases/latest)**.
-2.  Download the latest `OSFRLauncher_***.dmg`.
-    > **Note:** For 1.0.0 We recommend you Select Arm for M series Macs and x86 of for Intel Macs.
+2.  Download the latest `OSFRLauncher.dmg`.
+    > **Note:** For 1.0.0 We recommend you Select Arm for M series Macs and x86 of for Intel Macs. (OSFRLauncher_***.dmg)
 3.  Open and drag into application folder.
 
 #### How to Play
