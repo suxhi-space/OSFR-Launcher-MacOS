@@ -16,7 +16,7 @@ This application was built using [Porting Kit](https://www.portingkit.com/)
 3.  Click **"Play"**.
 4.  Log in with your account details and enjoy the game!
 
-### Build with Porting Kit from Source
+### OSFR Launcher Source
 
 **[Please check out the main github here](https://github.com/Open-Source-Free-Realms/Launcher)**.
 
