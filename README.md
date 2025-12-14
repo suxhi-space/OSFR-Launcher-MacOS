@@ -2,7 +2,7 @@
 This application was built using [Porting Kit](https://www.portingkit.com/)
 
 **Note:** This app is a container. So login information and servers are saved within. SO PLEASE DO NOT SHARE your .app with anyone else.
-
+***
 #### Installation
 1.  Navigate to the **[Latest Release](https://github.com/suxhi-space/OSFR-Launcher-MacOS/releases/latest)**.
 2.  Download the latest `OSFRLauncher.dmg`.
@@ -16,6 +16,7 @@ This application was built using [Porting Kit](https://www.portingkit.com/)
 3.  Click **"Play"**.
 4.  Log in with your account details and enjoy the game!
 
+---
 ### OSFR Launcher Source
 
 **[Please check out the main github here](https://github.com/Open-Source-Free-Realms/Launcher)**.
@@ -23,3 +24,11 @@ This application was built using [Porting Kit](https://www.portingkit.com/)
 ### How to Contribute
 
 **[Discord](https://discord.com/invite/qgVJ5Z7xEq)**
+***
+### Want to edit it's wineskin and wine directory?
+1. Left click application
+2. Select 'Show Package Contents'
+3. Open 'Contents'
+4. Run 'Wineskin' as a normal app (double click/open)
+This will give you full access to things like winetricks, winecfg, etc. Also within 'Contents' folder you have access to the 'C' drive.
+> **Note:** You will see a user folder with your mac user file name. This is autocreated when you frist open the app but it just a link that links into main user folder called 'Wineskin'
