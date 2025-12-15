@@ -16,6 +16,16 @@ This application was built using [Porting Kit](https://www.portingkit.com/)
 3.  Click **"Play"**.
 4.  Log in with your account details and enjoy the game!
 
+
+---
+#### Can't open DMG:
+- Check System Settings: Go to System Settings > Privacy & Security. Scroll down and see if there's a message about the app being blocked and click "Open Anyway" (you might need to unlock with your password),
+- Using Terminal (for blocked apps):
+  1. Open Terminal: Find it in Applications > Utilities.,
+  2. Remove Quarantine: Type xattr -cr (note the space at the end) and then drag the problematic DMG file from Finder into the Terminal window to add its path, then press Enter.,
+  3. Attach the DMG: Type hdiutil attach (space at the end), drag the DMG into Terminal, and press Enter.
+
+
 ---
 ### OSFR Launcher Source
 
