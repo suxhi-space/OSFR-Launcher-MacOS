@@ -10,11 +10,17 @@ This application was built using [Porting Kit](https://www.portingkit.com/)
 3.  Open and drag into application folder.
 
 #### How to Play
-1.  Launch the application.
+1.  Launch the application..
+    > **Note:** You might need to approve the app so go to System Settings > Privacy & Security. Scroll down and see if there's a message about the app being blocked and click "Open Anyway" (you might need to unlock with your password).
 2.  Enter a server URL from a **Known** host.
     > **Note:** Sul's Server and files have been added in by default for easy use. IF you want a version without Sul's files preloaded please let me know in the discord.
 3.  Click **"Play"**.
 4.  Log in with your account details and enjoy the game!
+
+
+---
+#### Zip Guide:
+1. Open the zip then drag the app to your applications folder.
 
 
 ---
