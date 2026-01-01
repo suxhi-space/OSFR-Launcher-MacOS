@@ -1,3 +1,5 @@
+### This Project has been archived. [Please use OSFR Mac Launcher!](https://github.com/suxhi-space/OSFR-Mac-Launcher)
+
 ### Getting Started
 This application was built using [Porting Kit](https://www.portingkit.com/)
 
